@@ -1,0 +1,202 @@
+
+#whole {
+    margin: 0px auto;
+    width: 70%;
+    text-align: left;
+    background-color: linen;
+}
+#Alltitle{
+    margin: 0px ;
+}
+#title{
+
+    width: 60%;
+    display: inline-block;
+    margin: 0px;
+    height: 100px;
+}
+#title img{
+    margin: 20px 0px -10px 40px;
+}
+
+#title a{
+    text-decoration: none;
+    padding:0px;
+    margin: -10px 0px 0px 40px;
+    color: grey;
+}
+#title-side{
+    width: 40%;
+    float: right;
+}
+#title-side img{
+
+}
+
+
+
+#globallink{
+    margin: 0px 0px 0px 0px;
+    padding: 0px;
+    background-color: lavenderblush;
+    font-size: 12px;
+
+}
+#globallink ul{
+    list-style-type: none;
+    padding: 0px;
+    margin:0px;
+    background: url("image/hong.png") no-repeat;
+height: 31px;
+}
+#globallink ul li{
+
+    float: left;
+    text-align: center;
+
+}
+#globallink ul li a{
+    color: white;
+    display: block;
+    font-size: 15px;
+    padding:8px 19px 7px 25px;
+    margin: 0px;
+
+}
+#globallink ul li a:link{
+    color: white;
+
+    font-size:12px;
+    font-style: nomal;
+    font-weight: bold;
+    text-decoration: none;
+}
+#globallink ul li a:hover{
+    color:peachpuff;
+    font-size:14px;
+    text-decoration: none;
+    background: url("images/button_bg.jpg") no-repeat;
+    transition:color 1s linear 0.1s;
+    transform:scale(1.1,1.1) rotate(9deg);
+}
+#about{
+
+    margin: -3px 0px 0px 0px;
+    display: inline-block;
+}
+#about h3{
+    font-size: 18px;
+    color: grey;
+    font-family: "Microsoft Yahei";
+    margin: 12px 0px -12px 0px;
+    padding: 0px 0px 0px 0px;
+
+
+}
+#about h2{
+    font-size: 22px;
+    color: red;
+    font-family: "Microsoft Yahei";
+    font-weight: bold;
+}
+#about h4{
+    line-height: 21px;
+    color: gray;
+    font-size: 14px;
+    font-family:"Microsoft Yahei";
+}
+
+
+#news h3{
+    font-size: 18px;
+    color:grey;
+    font-family: "Microsoft Yahei";
+    margin: 12px 0px -12px 0px;
+    padding: 0px;
+
+}
+#news h2{
+    color: red;
+    font-family: "Microsoft Yahei";
+    font-weight: bold;
+
+}
+#news li a{
+   color: gray;
+    font-size: 14px;
+    list-style-type: disc;
+    font-family:"Microsoft Yahei";
+    margin:0px 0px 0px 0px ;
+}
+#news span{
+    font-family: "Microsoft Yahei";
+    float: right;
+    color: red;
+}
+#zhong{
+    height: 520px;
+}
+#left{
+    float: left;
+    width: 54%;
+}
+#right{
+    float: right;
+    width: 46%;
+}
+#lunbo{
+    float: right;
+}
+#zi{
+    float: left;
+}
+#zi h1{
+    margin: 13px 0px 0px 30px;
+    float: left;
+    font-size: 15px;
+    color: darkgray;
+    font-family: "Microsoft Yahei";
+}
+#zi h2{
+    font-family: "Microsoft Yahei";
+    float: left;
+    margin: 10px 0px 0px 20px;
+    color: red;
+    font-size: 22px;
+}
+#zi img{
+    float: right;
+}
+#service img{
+    float: left;
+    margin: 0px;
+    padding: 0px 0px 0px 21px;
+}
+#lianxi{
+
+    text-decoration: none;
+    font-size: 13px;
+
+
+}
+#lianxi li{
+
+    list-style-type: none;
+    line-height: 24px;
+}
+
+#lianxi a{
+    color: darkgray;
+    text-decoration: none;
+}
+#tupian{
+
+}
+#tupian ul{
+    list-style-type: none;
+
+}
+#tupian li{
+    float: left;
+    margin: 0px 38px 0px -20px;
+}
